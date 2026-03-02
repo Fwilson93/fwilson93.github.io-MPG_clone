@@ -4,8 +4,8 @@ logo: /assets/img/MPG.jpg
 
 description: A special interest group of the <a href="https://www.minersoc.org/">Mineralogical Society of the UK and Ireland</a>. <br/>
                 <br/>
-                <a href="{{ '/RiP_2026/RiP_2026.html' | relative_url }}">💎 RiP 2026 meeting</a><br/>
-                <a href="{{ '/previous_RiP_meetings.html' | relative_url }}">💎 Previous RiP meetings</a><br/>
+                {% include RiP2026_link.html %}
+                {% include Previous_RiPs_link.html %}
 
    
 show_downloads: false
