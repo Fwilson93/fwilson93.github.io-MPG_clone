@@ -4,8 +4,8 @@ logo: /assets/img/MPG.jpg
 
 description: A special interest group of the <a href="https://www.minersoc.org/">Mineralogical Society of the UK and Ireland</a>. <br/>
                 <br/>
-                <a href="https://fwilson93.github.io/-MPG_clone/RiP_2026/RiP_2026.html">💎 RiP 2026 meeting </a> <br/>
-                <a href="/https://fwilson93.github.io/-MPG_clone/previous_RiP_meetings.html">💎 Previous RiP meetings </a> <br/>
+                <a href="{{ site.github.url }}/RiP_2026/RiP_2026.html">💎 RiP 2026 meeting </a> <br/>
+                <a href="{{ site.github.url }}/previous_RiP_meetings.html">💎 Previous RiP meetings </a> <br/>
    
 show_downloads: false
 
